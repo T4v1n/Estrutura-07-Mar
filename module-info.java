@@ -1,0 +1,2 @@
+module Estrutura01 {
+}
